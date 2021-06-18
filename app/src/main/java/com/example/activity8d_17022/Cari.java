@@ -29,7 +29,7 @@ public class Cari extends AppCompatActivity {
         batal.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //finish untuk keluar dari activity atau selesai gitulah
+                //finish untuk keluar dari activity atau selesai gitulah,commit juga
                 finish();
             }
         });
